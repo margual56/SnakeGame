@@ -3,3 +3,6 @@ The Snake game but with a torus-like space, meaning that exiting up makes you ap
 
 ## Execution
 Download processing from the [Processing webpage](https://processing.org/download/) and open one of the .pde files. Then, execute.
+
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
