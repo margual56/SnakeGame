@@ -16,7 +16,7 @@ void draw() {
 
   noFill();
   stroke(100);
-  drawGrid();
+  //drawGrid();
 
   if (frameCount%10==0){
     snake.move();
